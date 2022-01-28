@@ -52,5 +52,6 @@ PLEASE NOTE THIS IMPORTANT POINT "DON'T BELIEVE IN PUBLIC LB" IT'S ONLY 14% of r
 Your score will be different for different submissions that's because of randomness in gradient boosting! and that's completely normal you must focus on reducing overfitting, gather as much data as possible and ofcourse reduce the number of features as much as possible without sacrificing model validation score and that's exactly what i've done below :)
 
 # Thank you!
+# Please share your support by upvote :)
 
 
